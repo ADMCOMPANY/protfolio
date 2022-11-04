@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ADMCOMPANY/protfolio.git/static/css/main.a04e6494.css",
+    "main.js": "/ADMCOMPANY/protfolio.git/static/js/main.4f2e0124.js",
+    "index.html": "/ADMCOMPANY/protfolio.git/index.html",
+    "main.a04e6494.css.map": "/ADMCOMPANY/protfolio.git/static/css/main.a04e6494.css.map",
+    "main.4f2e0124.js.map": "/ADMCOMPANY/protfolio.git/static/js/main.4f2e0124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a04e6494.css",
+    "static/js/main.4f2e0124.js"
+  ]
+}
