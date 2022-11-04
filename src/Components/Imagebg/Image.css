@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+.about{
+    display: flex;
+}
+.about__img{
+    display: flex;
+}

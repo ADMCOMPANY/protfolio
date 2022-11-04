@@ -1,0 +1,59 @@
+.footer{
+    width: 100%;
+    padding: 5rem 0 ;
+    background-color: rgba(19, 19, 19, 0.8);
+}
+.footer__container{
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr );
+    grid-gap: 40px;
+}
+.footer__left{
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+.home{
+    display: flex;
+    margin-bottom: 0.8rem ;
+}
+.home p{
+    line-height: 30px;
+}
+.footer__right{
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+.social{
+    margin-top: 1rem;
+}
+h4{
+    font-size: 1.2rem;
+    padding-bottom: 0.7rem;
+}
+p{
+    font-size: 1.2rem ;
+}
+.icon{
+    margin-top: 0.3rem;
+}
+/* h4 .EmailIcon {
+    margin-top: 0.3rem;
+} */
+/* .mail icon{
+    margin-top: 12.3rem
+} */
+@media only screen and (max-width:650px) 
+{
+    .footer__container{
+        grid-template-columns: 1fr;
+    }
+    
+}
